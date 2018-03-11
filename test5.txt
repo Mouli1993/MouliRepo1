@@ -1,10 +1,1 @@
-<<<<<<< HEAD
-s is brand
- new
- file
- tha
-t
- 
-
-Hello Changed by "b2" branch
-s is brand new file that was created in a branch name new
+Cb changed b2 branch
